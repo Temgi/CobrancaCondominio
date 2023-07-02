@@ -80,9 +80,83 @@ A Aplicação Utiliza a API de Bean Validation para Validação de Entrada de Da
 ## 🏁 Como Executar o Projeto
 
 ### Instalações
+1-Baixar e Instalar o Java-JDK no Link Abaixo:
+<br>
+https://www.oracle.com/br/java/technologies/javase/javase8-archive-downloads.html
+<br><br>
+2-Configurar Variáveis de Ambiente do Java-JDK Conforme Link Abaixo:
+<br>
+https://www.alura.com.br/apostila-java-orientacao-objetos/apendice-instalacao-do-java
+<br><br>
+3-Baixar e Instalar o MySQL Seguindo os Links Abaixo:
+<br>
+https://dev.mysql.com/downloads/windows/installer/8.0.html
+<br>
+https://www.alura.com.br/artigos/mysql-do-download-e-instalacao-ate-sua-primeira-tabela
+<br><br>
 
 ### Configuração Banco de Dados
+1-Script SQL para Criação do Banco de Dados
+~~~sql
+CREATE SCHEMA `cobranca`;
+~~~
+<br>
+
+2-Script SQL para Popular Tabela TITULO
+~~~sql
+INSERT INTO titulo(codigo, data_vencimento, descricao, status, valor)
+VALUES(1, '2023-01-25', 'Condomínio Apto 501', 'RECEBIDO', 300);
+
+INSERT INTO titulo(codigo, data_vencimento, descricao, status, valor)
+VALUES(2, '2023-02-26', 'Condomínio Apto 502', 'PENDENTE', 550);
+
+INSERT INTO titulo(codigo, data_vencimento, descricao, status, valor)
+VALUES(3, '2023-03-27', 'Condomínio Apto 503', 'RECEBIDO', 430);
+
+~~~
+<br>
 
 ### Execução e Deploy do Projeto
+
+```bash
+# Clonar Repositório
+git clone https://github.com/Temgi/CobrancaCondominio.git
+
+# Executar o Projeto
+-Baixar e Descompactar o Apache Maven apache-maven-3.8.4 no Unidade C:\
+-Copiar o Endereço da Pasta [bin] no Caminho [C:\apache-maven-3.8.4\bin]
+-Configurar as Variáveis de Ambiente para o Apache Maven apache-maven-3.8.4:
+
+   Abra o Meu Computador no Windows(Win+E) / Botão Direito dentro de Meu Computador e Selecione [Propriedades] / Click
+   em [Configurações Avançadas de Sistema] no lado Esquerdo / Na Aba [Avançado], clique em [Variáveis de Ambiente] na
+   Parte Inferior / Em [Variáveis de Sistema] Click em [Novo] / No Campo [Nome da Variável] digite [MAVEN_HOME] / No
+   Campo [Valor da Variável] digite [C:\apache-maven-3.8.4] e Click OK / Selecione na Lista o Item [PATH] e Click em
+   [Editar] / Click em [Novo] digite [%MAVEN_HOME%\bin] / Click em OK - OK - OK. Abra o Executar no Windows com [Win+R]
+   digite [cmd], no Prompt de Comando digite o comando [mvn -version]
+
+-Acessar no Prompt de Comando o Caminho da Pasta [target] do Projeto [CobrancaCondominio]
+-No Prompt Executar o Comando [java -jar Cobranca.jar]
+-Acessar no Chrome o Endereço: [http://localhost:8083/cobranca/titulos]
+```
+
+## 📝 Autor
+
+<table>
+<tr>
+<td align="center"><a href="https://github.com/Temgi"><img style="border-radius: 10%;" src="https://avatars.githubusercontent.com/u/8334174?v=4" width="80px;" alt="Foto de Rui Temgi Saraiva Azevedo no GitHub"/></a><br /></td>
+</tr>
+</table>
+
+Rui Azevedo
+<br>
+Contatos:  <a href="https://www.linkedin.com/in/devruiazevedo/">LinkedIn</a> - <a href="https://github.com/Temgi">GitHub</a> - <a href="https://wa.me/5511971973505?text=Ol%C3%A1%21+Obrigado+por+Entrar+em+contato+Conosco+Seja+Bem+Vinda%28o%29%21">WhatsApp</a>
+
+
+
+
+
+
+
+
 
 
