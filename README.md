@@ -15,6 +15,19 @@
 
 <p>A Aplicação foi Construída a partir da necessidade de uma Tia que é Síndica no Condomínio onde mora em São Paulo, onde ela tinha muita Dificuldade e pouca Praticidade para Controlar os Boletos Pagos ou em Aberto pelos Moradores do Edifício. O Software utiliza uma Interface Mobile/Web para Inclusão e Pesquisa de Títulos, conta com Recursos como Componente de Mensagem, Validação de Campos, Pesquisa, Inclusão, Edição, Exclusão de Boletos, Componente de Calendário e Modal de Exclusão. Resolvendo a Questão de quais Pagamentos já foram Efetuados pelos Condôminos e por ser Totalmente Responsivo pode ser Utilizados tanto em Plataformas Android como IPhone.</p> 
 
+## 📗 Sumário
+<br>
+
+* [Interface Web](#-interface-web)
+* [Layout Mobile](#-layout-mobile)
+* [Features](#%EF%B8%8F-features)
+* [Modal Diálogo](#-modal-de-diálogo)
+* [Estrutura de Classes](#-estrutura-de-classes)
+* [Tecnologias Utilizadas](#-tecnologias-utilizadas)
+* [Validação de Dados](#-validação-de-dados) 
+* [Como Executar o Projeto](#-como-executar-o-projeto)
+* [Autor](#-autor)
+
 ## 💻 Interface Web
 <br>
 
@@ -139,7 +152,7 @@ git clone https://github.com/Temgi/CobrancaCondominio.git
 - Acessar no Chrome o Endereço: [http://localhost:8083/cobranca/titulos]
 ```
 
-## 📝 Autor
+## 📝 **Autor**
 
 <table>
 <tr>
@@ -150,6 +163,7 @@ git clone https://github.com/Temgi/CobrancaCondominio.git
 Rui Azevedo
 <br>
 Contatos:  <a href="https://www.linkedin.com/in/devruiazevedo/">LinkedIn</a> - <a href="https://wa.me/5511971973505?text=Olá.%20Estou%20Entrando%20em%20Contato%20a%20partir%20do%20Portfólio%20no%20GitHub.">WhatsApp</a> - <a href="#"> ruisaraivasp@gmail.com</a>
+
 
 
 
