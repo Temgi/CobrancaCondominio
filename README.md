@@ -123,20 +123,20 @@ VALUES(3, '2023-03-27', 'Condomínio Apto 503', 'RECEBIDO', 430);
 git clone https://github.com/Temgi/CobrancaCondominio.git
 
 # Executar o Projeto
--Baixar e Descompactar o Apache Maven apache-maven-3.8.4 no Unidade C:\
--Copiar o Endereço da Pasta [bin] no Caminho [C:\apache-maven-3.8.4\bin]
--Configurar as Variáveis de Ambiente para o Apache Maven apache-maven-3.8.4:
+- Baixar e Descompactar o Apache Maven apache-maven-3.8.4 no Unidade C:\
+- Copiar o Endereço da Pasta [bin] no Caminho [C:\apache-maven-3.8.4\bin]
+- Configurar as Variáveis de Ambiente para o Apache Maven apache-maven-3.8.4:
 
    Abra o Meu Computador no Windows(Win+E) / Botão Direito dentro de Meu Computador e Selecione [Propriedades] / Click
-   em [Configurações Avançadas de Sistema] no lado Esquerdo / Na Aba [Avançado], clique em [Variáveis de Ambiente] na
-   Parte Inferior / Em [Variáveis de Sistema] Click em [Novo] / No Campo [Nome da Variável] digite [MAVEN_HOME] / No
+   no lado Esquerdo em [Configurações Avançadas de Sistema]  / Na Aba [Avançado], clique na Parte Inferior em [Variáveis
+   de Ambiente]  / Em [Variáveis de Sistema] Click em [Novo] / No Campo [Nome da Variável] digite [MAVEN_HOME] / No
    Campo [Valor da Variável] digite [C:\apache-maven-3.8.4] e Click OK / Selecione na Lista o Item [PATH] e Click em
    [Editar] / Click em [Novo] digite [%MAVEN_HOME%\bin] / Click em OK - OK - OK. Abra o Executar no Windows com [Win+R]
    digite [cmd], no Prompt de Comando digite o comando [mvn -version]
 
--Acessar no Prompt de Comando o Caminho da Pasta [target] do Projeto [CobrancaCondominio]
--No Prompt Executar o Comando [java -jar Cobranca.jar]
--Acessar no Chrome o Endereço: [http://localhost:8083/cobranca/titulos]
+- Acessar no Prompt de Comando o Caminho da Pasta [target] do Projeto [CobrancaCondominio]
+- No Prompt Executar o Comando [java -jar Cobranca.jar]
+- Acessar no Chrome o Endereço: [http://localhost:8083/cobranca/titulos]
 ```
 
 ## 📝 Autor
