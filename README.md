@@ -149,7 +149,7 @@ git clone https://github.com/Temgi/CobrancaCondominio.git
 
 Rui Azevedo
 <br>
-Contatos:  <a href="https://www.linkedin.com/in/devruiazevedo/">LinkedIn</a> - <a href="https://github.com/Temgi">GitHub</a> - <a href="https://wa.me/5511971973505?text=Ol%C3%A1%21+Obrigado+por+Entrar+em+contato+Conosco+Seja+Bem+Vinda%28o%29%21">WhatsApp</a>
+Contatos:  <a href="https://www.linkedin.com/in/devruiazevedo/">LinkedIn</a> - <a href="https://github.com/Temgi">GitHub</a> - <a href="https://wa.me/5511971973505?text=Olá.%20Estou%20Entrando%20em%20Contato%20a%20partir%20do%20Portfólio%20no%20GitHub.">WhatsApp</a>
 
 
 
