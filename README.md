@@ -11,7 +11,7 @@
 ## 🎨 Layout Mobile
 
 ## Layout mobile
-![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
+![Mobile 1](https://github.com/Temgi/CobrancaCondominio/blob/main/assets/Mobile1.png) ![Mobile 2](https://github.com/Temgi/CobrancaCondominio/blob/main/assets/Mobile2.png)
 
 
 ## Tecnologias Utilizadas:
