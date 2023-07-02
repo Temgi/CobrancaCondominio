@@ -11,7 +11,7 @@
 </p>
 
 ## 🧠 Sobre o Projeto
-<a href="http://app-java.ddns.net:8083/cobranca/titulos/novo" target="_blank" rel="noopener">Link do Projeto para Acesso Online</a>
+<a href="http://app-java.ddns.net:8083/cobranca/titulos" target="_blank" rel="noopener">Link do Projeto para Acesso Online</a>
 
 <p>A Aplicação foi Construída a partir da necessidade de uma Tia que é Síndica no Condomínio onde mora em São Paulo, onde ela tinha muita Dificuldade e pouca Praticidade para Controlar os Boletos Pagos ou em Aberto pelos Moradores do Edifício. O Software utiliza uma Interface Mobile/Web para Inclusão e Pesquisa de Títulos, conta com os Recursos como Componente de Mensagem, Validação de Campos, Pesquisa, Inclusão, Edição, Exclusão de Boletos, Componente de Calendário e Modal de Exclusão. Resolvendo a Questão de quais Pagamentos já foram Efetuados pelos Condôminos e por ser Totalmente Responsivo pode ser Utilizados tanto em Plataformas Android como IPhone.</p> 
 
